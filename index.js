@@ -4,4 +4,4 @@ function hellome(myName, myAge) {
     console.log(`${myName} is ${myAge} years old!`);
 }
 
-hellome("Darkknight", 14);
+hellome("Darkknight", 15);
